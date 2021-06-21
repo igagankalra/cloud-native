@@ -3,7 +3,7 @@
 ## Transition from VMs to Containers
 
 ### VMs
-In the past years, VMs (Virtual Machines) were the main machanism to host an application. SMs encapsulate the code, configuration files, and dependencies necessary to execute the application.
+In the past years, VMs (Virtual Machines) were the main machanism to host an application. VMs encapsulate the code, configuration files, and dependencies necessary to execute the application.
 
 In essence, a VM is composed of an __operating system__ (OS) with a set of pre-installed libraries and packages. During execution, the __application__ utilizes an OS filesystem, resources, and packages.
 
