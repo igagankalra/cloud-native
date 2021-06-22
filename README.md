@@ -7,4 +7,4 @@
 
 Reference:
 1.  Cloud Native Course from [Udacity](udacity.com)
-2.  Official [Docker docs page](https://docs.docker.com/).
+2.  Official [Docker docs](https://docs.docker.com/) webpage.
