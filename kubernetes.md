@@ -30,6 +30,13 @@ CMD - to set the default command to execute when the container starts
 EXPOSE - to expose an application port
 ```
 
+### Docker Image
+
+A __Docker image__ is a read-only template that is used to spin up a runnable instance of an application. A docker Image provides the execution envronment for an application, including any essential code, config files, and dependencies. A Docker image can be build from an existing Dockerfile using the `docker build` command.
+
+
+
+### Docker Registry
 
 
 
