@@ -1,7 +1,7 @@
 # Architecture Consideration for Cloud Native
 
 ## Design Considerations for Cloud-Native Applications
-The first step in the context discovery process is to list the __functional requrements__, or what application capabilities should be delivered to the end-users. For example, a good starting point is to expand on the following:
+The first step in the context discovery process is to list the __functional requirements__, or what application capabilities should be delivered to the end-users. For example, a good starting point is to expand on the following:
 - Stakeholders
 - Fuctionalities
 - End users
